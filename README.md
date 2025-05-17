@@ -1,4 +1,14 @@
-# telegram-bot
-A clean, modular, and extensible Telegram bot built using the python-telegram-bot library. This project includes basic command handling (/start and /help), environment variable support, structured logging, and a scalable architecture to easily integrate new features. Ideal for developers looking to build Telegram bots with best practices in mind.
+# Telegram Bot (python-telegram-bot)
 
+A modular and extensible Telegram bot built with Python using the `python-telegram-bot` library. It supports basic commands like `/start` and `/help`, and is structured for easy expansion.
+
+## 📦 Features
+
+- `/start` and `/help` command support
+- Modular and scalable codebase
+- Environment variable usage for sensitive credentials
+- Logging and basic error handling
+- Typing indicator during responses
+
+## 🚀 Getting Started
 
